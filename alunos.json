@@ -1,0 +1,274 @@
+[{
+    "nome":"Abner", 
+    "foto": "img/sem-foto.gif", 
+    "trabalhos":[
+        {"projeto":"StarGeek", "link":"#"},
+        {"projeto":"StarCoffee", "link":"#"},
+        {"projeto":"Pizzaria", "link":"#"}
+    ]
+},{
+    "nome":"Kaio", 
+    "foto": "img/kaio.jpg", 
+    "trabalhos":[
+        {"projeto":"StarGeek", "link":"#"},
+        {"projeto":"StarCoffee", "link":"#"},
+        {"projeto":"Pizzaria", "link":"#"}
+    ]
+},{
+    "nome":"Ana Carolina", 
+    "foto": "img/ana-carolina.jpg", 
+    "trabalhos":[
+        {"projeto":"StarGeek", "link":"#"},
+        {"projeto":"StarCoffee", "link":"#"},
+        {"projeto":"Pizzaria", "link":"#"}
+    ]
+},{
+    "nome":"Bianca", 
+    "foto": "img/sem-foto.gif", 
+    "trabalhos":[
+        {"projeto":"StarGeek", "link":"#"},
+        {"projeto":"StarCoffee", "link":"#"},
+        {"projeto":"Pizzaria", "link":"#"}
+    ]
+},{
+    "nome":"Bruna", 
+    "foto": "img/bruna.jpg", 
+    "trabalhos":[
+        {"projeto":"StarGeek", "link":"#"},
+        {"projeto":"StarCoffee", "link":"#"},
+        {"projeto":"Pizzaria", "link":"#"}
+    ]
+},{
+    "nome":"Cauan", 
+    "foto": "img/cauan.jpg", 
+    "trabalhos":[
+        {"projeto":"StarGeek", "link":"#"},
+        {"projeto":"StarCoffee", "link":"#"},
+        {"projeto":"Pizzaria", "link":"#"}
+    ]
+},{
+    "nome":"César", 
+    "foto": "img/cesar.jpg", 
+    "trabalhos":[
+        {"projeto":"StarGeek", "link":"#"},
+        {"projeto":"StarCoffee", "link":"#"},
+        {"projeto":"Pizzaria", "link":"#"}
+    ]
+},{
+    "nome":"Clara", 
+    "foto": "img/clara.jpg", 
+    "trabalhos":[
+        {"projeto":"StarGeek", "link":"#"},
+        {"projeto":"StarCoffee", "link":"#"},
+        {"projeto":"Pizzaria", "link":"#"}
+    ]
+},{
+    "nome":"Emanuelly", 
+    "foto": "img/sem-foto.gif", 
+    "trabalhos":[
+        {"projeto":"StarGeek", "link":"#"},
+        {"projeto":"StarCoffee", "link":"#"},
+        {"projeto":"Pizzaria", "link":"#"}
+    ]
+},{
+    "nome":"Enzo", 
+    "foto": "img/sem-foto.gif", 
+    "trabalhos":[
+        {"projeto":"StarGeek", "link":"#"},
+        {"projeto":"StarCoffee", "link":"#"},
+        {"projeto":"Pizzaria", "link":"#"}
+    ]
+},{
+    "nome":"Gabriel", 
+    "foto": "img/gabriel.jpg", 
+    "trabalhos":[
+        {"projeto":"StarGeek", "link":"#"},
+        {"projeto":"StarCoffee", "link":"#"},
+        {"projeto":"Pizzaria", "link":"#"}
+    ]
+},{
+    "nome":"Giovana", 
+    "foto": "img/sem-foto.gif",  
+    "trabalhos":[
+        {"projeto":"StarGeek", "link":"#"},
+        {"projeto":"StarCoffee", "link":"#"},
+        {"projeto":"Pizzaria", "link":"#"}
+    ]
+},{
+    "nome":"Guilherme Alexandre", 
+    "foto": "img/guilherme-alexandre.jpg", 
+    "trabalhos":[
+        {"projeto":"StarGeek", "link":"#"},
+        {"projeto":"StarCoffee", "link":"#"},
+        {"projeto":"Pizzaria", "link":"#"}
+    ]
+},{
+    "nome":"Guilherme Lima", 
+    "foto": "img/guilherme-lima.jpg", 
+    "trabalhos":[        
+        {"projeto":"StarGeek", "link":"#"},
+        {"projeto":"StarCoffee", "link":"#"},
+        {"projeto":"Pizzaria", "link":"#"}
+    ]
+},{
+    "nome":"Gustavo Farias", 
+    "foto": "img/gustavo-farias.jpg", 
+    "trabalhos":[
+        {"projeto":"StarGeek", "link":"#"},
+        {"projeto":"StarCoffee", "link":"#"},
+        {"projeto":"Pizzaria", "link":"#"}
+    ]
+},{
+    "nome":"Gustavo Lopes", 
+    "foto": "img/gustavo-lopes.jpg", 
+    "trabalhos":[
+        {"projeto":"StarGeek", "link":"#"},
+        {"projeto":"StarCoffee", "link":"#"},
+        {"projeto":"Pizzaria", "link":"#"}
+    ]
+},{
+    "nome":"Heloísa", 
+    "foto": "img/sem-foto.gif", 
+    "trabalhos":[
+        {"projeto":"StarGeek", "link":"#"},
+        {"projeto":"StarCoffee", "link":"#"},
+        {"projeto":"Pizzaria", "link":"#"}
+    ]
+},{
+    "nome":"Jorge", 
+    "foto": "img/jorge.jpg", 
+    "trabalhos":[
+        {"projeto":"StarGeek", "link":"#"},
+        {"projeto":"StarCoffee", "link":"#"},
+        {"projeto":"Pizzaria", "link":"#"}
+    ]
+},{
+    "nome":"Julia", 
+    "foto": "img/julia.jpg", 
+    "trabalhos":[
+        {"projeto":"StarGeek", "link":"#"},
+        {"projeto":"StarCoffee", "link":"#"},
+        {"projeto":"Pizzaria", "link":"#"}
+
+    ]
+},{
+    "nome":"Julio", 
+    "foto": "img/julio.jpg", 
+    "trabalhos":[
+        {"projeto":"StarGeek", "link":"#"},
+        {"projeto":"StarCoffee", "link":"#"},
+        {"projeto":"Pizzaria", "link":"#"}
+    ]
+},{
+    "nome":"Lauany", 
+    "foto": "img/lauany.jpg", 
+    "trabalhos":[
+        {"projeto":"StarGeek", "link":"#"},
+        {"projeto":"StarCoffee", "link":"#"},
+        {"projeto":"Pizzaria", "link":"#"}
+    ]
+},{
+    "nome":"Laura", 
+    "foto": "img/laura.jpg", 
+    "trabalhos":[
+        {"projeto":"StarGeek", "link":"#"},
+        {"projeto":"StarCoffee", "link":"#"},
+        {"projeto":"Pizzaria", "link":"#"}
+    ]
+},{
+    "nome":"Luis Otávio", 
+    "foto": "img/sem-foto.gif", 
+    "trabalhos":[
+        {"projeto":"StarGeek", "link":"#"},
+        {"projeto":"StarCoffee", "link":"#"},
+        {"projeto":"Pizzaria", "link":"#"}
+    ]
+},{
+    "nome":"Luiz Felipe", 
+    "foto": "img/luiz-felipe.jpg", 
+    "trabalhos":[
+        {"projeto":"StarGeek", "link":"#"},
+        {"projeto":"StarCoffee", "link":"#"},
+        {"projeto":"Pizzaria", "link":"#"}
+    ]
+},{
+    "nome":"Maria Clara", 
+    "foto": "img/sem-foto.gif", 
+    "trabalhos":[
+        {"projeto":"StarGeek", "link":"#"},
+        {"projeto":"StarCoffee", "link":"#"},
+        {"projeto":"Pizzaria", "link":"#"}
+    ]
+},{
+    "nome":"Maria Eduarda M.", 
+    "foto": "img/sem-foto.gif", 
+    "trabalhos":[
+        {"projeto":"StarGeek", "link":"#"},
+        {"projeto":"StarCoffee", "link":"#"},
+        {"projeto":"Pizzaria", "link":"#"}
+    ]
+},{
+    "nome":"Maria Eduarda C.", 
+    "foto": "img/sem-foto.gif", 
+    "trabalhos":[
+        {"projeto":"StarGeek", "link":"#"},
+        {"projeto":"StarCoffee", "link":"#"},
+        {"projeto":"Pizzaria", "link":"#"}
+    ]
+},{
+    "nome":"Maria Fernanda", 
+    "foto": "img/maria-fernanda.jpg", 
+    "trabalhos":[
+        {"projeto":"StarGeek", "link":"#"},
+        {"projeto":"StarCoffee", "link":"#"},
+        {"projeto":"Pizzaria", "link":"#"}
+    ]
+},{
+    "nome":"Matheus", 
+    "foto": "img/matheus.jpg", 
+    "trabalhos":[
+        {"projeto":"StarGeek", "link":"#"},
+        {"projeto":"StarCoffee", "link":"#"},
+        {"projeto":"Pizzaria", "link":"#"}
+    ]
+},{
+    "nome":"Rafaela", 
+    "foto": "img/rafaela.jpg", 
+    "trabalhos":[
+        {"projeto":"StarGeek", "link":"#"},
+        {"projeto":"StarCoffee", "link":"#"},
+        {"projeto":"Pizzaria", "link":"#"}
+    ]
+},{
+    "nome":"Rayssa", 
+    "foto": "img/rayssa.jpg", 
+    "trabalhos":[
+        {"projeto":"StarGeek", "link":"#"},
+        {"projeto":"StarCoffee", "link":"#"},
+        {"projeto":"Pizzaria", "link":"#"}
+    ]
+},{
+    "nome":"Samuel", 
+    "foto": "img/sem-foto.gif", 
+    "trabalhos":[
+        {"projeto":"StarGeek", "link":"#"},
+        {"projeto":"StarCoffee", "link":"#"},
+        {"projeto":"Pizzaria", "link":"#"}
+    ]
+},{
+    "nome":"Vinicius", 
+    "foto": "img/vinicius.jpg", 
+    "trabalhos":[
+        {"projeto":"StarGeek", "link":"#"},
+        {"projeto":"StarCoffee", "link":"#"},
+        {"projeto":"Pizzaria", "link":"#"}
+    ]
+},{
+    "nome":"Yasmin", 
+    "foto": "img/sem-foto.gif", 
+    "trabalhos":[
+        {"projeto":"StarGeek", "link":"#"},
+        {"projeto":"StarCoffee", "link":"#"},
+        {"projeto":"Pizzaria", "link":"#"}
+    ]
+}]

@@ -1,0 +1,19 @@
+[{
+    "nome":"Douglas Camata de Araujo", 
+    "foto": "img/douglas.jpg", 
+    "trabalhos":[
+        {"projeto":"StarGeek", "link":"https://douglas-camata.github.io/stargeek/"},
+        {"projeto":"StarCoffee", "link":"https://douglas-camata.github.io/starcoffee/"},
+        {"projeto":"Pizzaria", "link":"https://douglas-camata.github.io/pizzaria/"},
+        {"projeto":"Exercícios", "link":"#"}
+    ]
+},{
+    "nome":"Ricardo dos Anjos Dias", 
+    "foto": "img/ricardo.jpeg", 
+    "trabalhos":[
+        {"projeto":"StarGeek", "link":"#"},
+        {"projeto":"StarCoffee", "link":"#"},
+        {"projeto":"Pizzaria", "link":"#"},
+        {"projeto":"Exercícios", "link":"#"}
+    ]
+}]

@@ -1,0 +1,154 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    min-height: 130px;
+    display: flex;
+    background-image: linear-gradient(to bottom, #ED1C24 80%, #950d15);
+    align-items: center;
+    color: #fff;
+}
+
+header>img {
+    width: 300px;
+    margin: 10px 50px;
+}
+
+header>.t1 {
+    font-size: 12px;
+    font-weight: 100;
+    margin-left: 10px;
+}
+
+#logo>h1,
+#logo>p {
+    text-shadow: 1px 1px 5px black;
+    margin-bottom: 5px;
+}
+
+.list-alunos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 35px;
+    padding: 20px;
+}
+
+.card-aluno {
+    background-image: url(../img/fundo-card.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-y: -100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    min-height: 300px;
+    /*background-image: linear-gradient( to bottom right, #ED1C24 60%, #950d15 );*/
+    border-top: 3px solid #950d15;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px #950d15;
+    padding: 10px;
+    color: #950d15;
+    text-align: center;
+    transition: all 500ms;
+    overflow: hidden;
+}
+
+.card-aluno:hover {
+    transform: scale(1.1);
+    transition: all 500ms;
+}
+
+.card-aluno>img {
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 4px solid white;
+}
+
+.card-aluno>h2 {
+    text-shadow: 1px 1px 1px #fbb8bd;
+    font-size: 20px;
+}
+
+.botoes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 5px;
+    position: relative;
+}
+
+.botao {
+    background-color: #950d15;
+    color: white;
+    text-decoration: none;
+    padding: 8px 13px;
+    border-radius: 6px;
+    margin: 2px;
+    text-shadow: 2px 2px 5px black;
+    box-shadow: 2px 2px 5px black;
+}
+
+.card-aluno>div {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.blur {
+    z-index: -1;
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    bottom: -80px;
+    right: -60px;
+    background: rgba(255, 51, 51, 0.8);
+    filter: blur(60px);
+}
+
+hr {
+    background: rgb(255, 255, 255);
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, rgba(149, 13, 21, 1) 50%, rgba(255, 255, 255, 0) 100%);
+    border: 0;
+    height: 4px;
+    width: 80%;
+    margin: 20px auto;
+}
+
+.titulo-secao {
+    text-align: center;
+    color: #950d15;
+    text-shadow: 1px 1px 4px rgb(92, 92, 92);
+    margin-top: 10px;
+}
+
+footer {
+    height: 50px;
+    background-image: linear-gradient(to bottom, #ED1C24 60%, #950d15);
+    text-align: center;
+    padding: 15px;
+    color: white;
+    font-style: italic;
+}
+
+@media (max-width:700px) {
+    header {
+        flex-direction: column;
+    }
+
+    #logo {
+        text-align: center;
+    }
+}
