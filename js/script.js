@@ -14,7 +14,6 @@ function carregarAlunos() {
                         <p>Projetos 1º Sem.</p>
                         <div class="botoes">
                             <div class="blur"></div>
-                            
                             `
 
                 for (let x = 0; x < data[i].trabalhos.length; x++){
@@ -61,7 +60,6 @@ function carregarAlunos() {
                         </div>                 
                     </div>
                     `
-                
                 var lista = document.getElementById("instrutores")
                 lista.innerHTML += cardAluno
             }
