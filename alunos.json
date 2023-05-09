@@ -217,11 +217,11 @@
     ]
 },{
     "nome":"Maria Fernanda", 
-    "foto": "img/maria-fernanda.jpg", 
+    "foto": "img/sem-foto.gif", 
     "trabalhos":[
-        {"projeto":"StarGeek", "link":"#"},
-        {"projeto":"StarCoffee", "link":"#"},
-        {"projeto":"Pizzaria", "link":"#"}
+        {"projeto":"StarGeek", "link":"https://mariafernanda06.github.io/Stargeek/"},
+        {"projeto":"StarCoffee", "link":"https://mariafernanda06.github.io/Starcoffee/"},
+        {"projeto":"Pizzaria", "link":"https://mariafernanda06.github.io/Pizzaria/"}
     ]
 },{
     "nome":"Matheus", 
@@ -243,9 +243,9 @@
     "nome":"Rayssa", 
     "foto": "img/rayssa.jpg", 
     "trabalhos":[
-        {"projeto":"StarGeek", "link":"#"},
-        {"projeto":"StarCoffee", "link":"#"},
-        {"projeto":"Pizzaria", "link":"#"}
+        {"projeto":"StarGeek", "link":"https://rayssagabriela22.github.io/stargeek/"},
+        {"projeto":"StarCoffee", "link":"https://rayssagabriela22.github.io/starcoffe/"},
+        {"projeto":"Pizzaria", "link":"https://rayssagabriela22.github.io/pizzaria-/"}
     ]
 },{
     "nome":"Samuel", 
