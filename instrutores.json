@@ -8,6 +8,9 @@
         {"projeto":"Exerc. HTML/CSS", "link":"https://douglas-camata.github.io/dev-sesi-senai/"},
         {"projeto":"Exerc. JavaScript", "link":"https://douglas-camata.github.io/javascript/"},
         {"projeto":"Sesi Quiz", "link":"https://douglas-camata.github.io/Sesi_Quiz/"}
+    ],
+    "trabalhos2sem":[
+        {"projeto":"Projeto Aulas C#", "link":"https://projetosaula-andradina2023.azurewebsites.net/"}
     ]
 },{
     "nome":"Ricardo dos Anjos Dias", 
